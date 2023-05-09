@@ -75,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 *Tailwind Css 
 *React-icons 
 *React-scroll </p>
-
+<img src="https://github.com/em1ne/react-portfolio/assets/121401426/4510401b-39c1-4588-9217-6b76d534dffb.gif" >
